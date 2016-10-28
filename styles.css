@@ -1,0 +1,49 @@
+.quote_machine_container{
+	margin: 0 auto;
+	width: 800px;
+	height: 700px;
+	outline: 2px solid black;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Give You Glory', cursive;
+}
+
+.quote_box {
+	width: 100%;
+	height: 60%;
+	outline: 2px red dashed;
+}
+
+.quote{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	height:70%;
+	padding-left: 10%;
+	padding-right: 10%;
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 20px;
+}
+
+.author-container{
+	height: 30%;
+}
+
+.author {
+	margin: 0 auto;
+	padding-top: 15px;
+	padding-right: 10px;
+	text-align: right;
+}
+
+.button_menu{
+	padding-top: 20px;
+	text-align: center;
+}
+
+button {
+	background-color: #16a085;
+	padding: 30px;
+}
